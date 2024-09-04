@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: userguide
+title: Red Hat QuickCourse User Guide
 version: 1
 nav:
 - modules/ROOT/nav.adoc
