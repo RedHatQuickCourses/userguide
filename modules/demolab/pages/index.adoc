@@ -1,4 +1,4 @@
-= Chapter 3
+= Hands-on Lab development guide (Demo platform)
 
 In this section, we cover... FIXME
 

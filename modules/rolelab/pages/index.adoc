@@ -1,4 +1,4 @@
-= Chapter 2
+= Hands-on Lab development guide (ROLE platform)
 
 In this section, we cover... FIXME
 
