@@ -1,1 +1,3 @@
 = THIS SITE IS OBSOLETE! DO NOT USE!!!
+
+See https://redhatquickcourses.github.io/developer-guide for latest.
